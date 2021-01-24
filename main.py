@@ -14,6 +14,7 @@ winner = None
 # tells us who the current player is (X goes first)
 current_player = "X"
 
+
 # Functions
 
 # Play a game of tic tac toe
